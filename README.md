@@ -1,6 +1,4 @@
 # news-humor-api-and-labs-scraper
-# API Scraping Assignment
-
 This repository contains two Python-based data engineering tasks completed as part of the assignment.
 
 ---
