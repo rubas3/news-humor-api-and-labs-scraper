@@ -1,4 +1,5 @@
-# news-humor-api-and-labs-scraper
+# API Scraping Assignment
+
 This repository contains two Python-based data engineering tasks completed as part of the assignment.
 
 ---
@@ -9,7 +10,9 @@ This repository contains two Python-based data engineering tasks completed as pa
   - Flask-based REST API
   - Fetches news from NewsAPI
   - Transforms news descriptions into humorous text using an LLM
-  - Returns JSON responses only (no UI)
+  - Contains two versions:
+        - humorous_app_rubas.py → With UI to display results on a web page
+        - humorous_app_without_ui.py → Returns JSON responses only (no UI)
 
 - **TASK2/**
   - Web scraper for lab test data
