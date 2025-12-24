@@ -6,13 +6,13 @@ This repository contains two Python-based data engineering tasks completed as pa
 
 ## Project Structure
 
-- **TASK1/**
-  - Flask-based REST API
-  - Fetches news from NewsAPI
-  - Transforms news descriptions into humorous text using an LLM
-  - Contains two versions:
-        - humorous_app_rubas.py → With UI to display results on a web page
-        - humorous_app_without_ui.py → Returns JSON responses only (no UI)
+-**TASK1/**
+- Flask-based REST API
+- Fetches news from NewsAPI
+- Transforms news descriptions into humorous text using an LLM
+- Contains two versions:
+    - `humorous_app_rubas.py` → With UI to display results on a web page
+    - `humorous_app_without_ui.py` → Returns JSON responses only (no UI)
 
 - **TASK2/**
   - Web scraper for lab test data
